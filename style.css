@@ -26,7 +26,7 @@ body {
   }
 }
 
-.centered-main-page-element {
+.main-section {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -99,7 +99,7 @@ input[type="text"]:focus {
 }
 
 /* New Task */
-#top-section-for-adding-element-to-list h3 {
+#adding-element-section h3 {
   display: block;
   margin: 0 0 20px;
 }
