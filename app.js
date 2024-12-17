@@ -188,6 +188,8 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
     bindTaskEvents(completedTasksHolder.children[i],taskIncomplete);
 }
 
+alert('ссылка на пулреквест https://github.com/vlmna13/clean-code-s1e1/pull/2');
+
 
 
 
